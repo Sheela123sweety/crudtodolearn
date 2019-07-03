@@ -39,13 +39,6 @@ $conn->close();
 
 
 
-
-
-
-
-
-
-
 <!DOCTYPE HTML>
 <html>
 <body>
